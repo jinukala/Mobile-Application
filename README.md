@@ -1,2 +1,4 @@
 # Mobile-Application
- The Contact Management System in Java allows adding, retrieving, and sorting contacts efficiently, ensuring validation of details like name, email, and phone numbers for secure storage.
+The SIM activation portal streamlines SIM card activation for customers. They provide personal info to purchase a SIM, then activate it using the SIM number and service number via the portal.
+
+
